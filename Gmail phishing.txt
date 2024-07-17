@@ -3,10 +3,10 @@ echo "# Gmail-phishing-" >> README.md
 git init
 git add README.md
 git commit -m "edelmira3422gh@gmail.com"
-git branch -Erentedinero194@gmai.com
+git branch -Erentedinero194@gmail.com
 git remote add origin https://github.com/Erente46/Gmail-phishing-.git
 git push - Erentedinero194@gmail.com
 
 git remote add origin https://github.com/Erente46/Gmail-phishing-.git
 git branch - https://github.com/Erente46/Gmail-phishing-.git
-git push -u Erentedinero194@gmai.com
+git push -u Erentedinero194@gmail.com
